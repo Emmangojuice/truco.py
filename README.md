@@ -39,3 +39,7 @@ Queens
 4s
 
 8s, 9s and 10s are never included. Upon agreement, the 7s, 6s, 5s, and 4s can be removed from the deck, this is called playing with a clean deck
+
+
+
+As you can see, the game has a similarity to poker. So using the game of war that if found and replicated , I can use that as a basis while finding aspects of coded poker games in python to use as inspiration. 
